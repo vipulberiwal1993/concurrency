@@ -1,3 +1,6 @@
+# In Python's threading module, a condition variable (threading.Condition) is a synchronization primitive that allows threads to wait for a specific condition to be met, 
+# and allows other threads to notify them when that condition changes
+
 import threading 
 
 class Foo:
